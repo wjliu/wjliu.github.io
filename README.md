@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# 关于我
 
-You can use the [editor on GitHub](https://github.com/wjliu/wjliu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2013年毕业于苏州大学，先后就职于烽火科技、天数智芯、华为等公司，目前就职于星环科技，担任容器云平台研发工程师。在多年的工作生涯中，从事过大数据流处理、PaaS平台研发、容器平台研发等多个工作方向，从15年开始接触容器和Kubernetes等技术，目前则主要从事基于Kubernetes的容器平台研发工作。    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 关于博客
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wjliu/wjliu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+根据多年的工作经验来看，写一篇两篇技术文章可能不难，但是能够多年如一日持续输出技术文章并都能有较高的质量，是大多数技术人员都无法做到的。很遗憾，我也是这里面的一员。很羡慕也很崇拜那些可以坚持编写技术文章的同行们。    
+近期考虑到随着年龄的增长、记忆力的衰退以及个人精力的不足，很难长期保持一个较为兴奋的工作状态，曾经掌握的技术不再能快速从大脑中进行检索。并且工作了多年后对于技术的认识和理解也有了进一步提升，也是时候将自己所掌握的技术内容记录并分享出来，一方面是为了自己后续可以快速翻阅曾经掌握的技术内容，另一方面也希望给一些刚刚入行希望得到帮助的朋友们一点点指引。但是鉴于本人并不擅长撰写文章、博客，可能在行文过程中难免出现一些错误、纰漏，如有误导还请各位海涵，也可以直接在我的仓库中发起[issue](https://github.com/wjliu/wjliu.github.io/issues)进行指正，感谢每一个看过我的文章的朋友，希望一点点浅薄的认识可以给你们带来一些帮助。
