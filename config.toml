@@ -1,7 +1,7 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Lwjpker的博客"
+title = "lwjpker的博客"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -164,17 +164,17 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     visitor = false
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
-    enable = false
+    enable = true
     options = ""
 
   [params.sequenceDiagrams] # see https://blog.olowolo.com/example-site/post/js-sequence-diagrams/
-    enable = false
+    enable = true
     options = ""            # default: "{theme: 'simple'}"
 
   [params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
-    enable = false
-    siteUV = true
-    sitePV = true
+    enable = true
+    siteUV = false
+    sitePV = false
     pagePV = true
 
   [params.reward]                                         # 文章打赏
@@ -183,7 +183,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
+    a-email = "lwj_leo@163.com"
     e-linkedin = "http://localhost:1313"
     f-google = "http://localhost:1313"
     g-github = "http://localhost:1313"
