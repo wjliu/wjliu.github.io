@@ -220,3 +220,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 #  section = ["HTML", "RSS"]
 #  taxonomy = ["HTML", "RSS"]
 #  taxonomyTerm = ["HTML"]
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = [":git", "lastmod", ":fileModTime", ":default"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
